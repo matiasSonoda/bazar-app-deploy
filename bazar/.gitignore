@@ -1,7 +1,7 @@
 HELP.md
 
 .env
-
+/bazar/target/
 ### STS ###
 .apt_generated
 .classpath
